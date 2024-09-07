@@ -56,7 +56,7 @@ p {
 
 footer {
     background: linear-gradient(to right, #0000ff, #ff0000);
-    padding: 0.5px;
+    padding: 0px;
     text-align: center;
     position: fixed;
     bottom: 0;
